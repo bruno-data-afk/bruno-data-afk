@@ -34,18 +34,15 @@ Atualmente, estou me aprofundando em **Data Science, Engenharia de Dados e IA**.
 #### 🚀 Destaque
 
 * 🔃 **Projetos em andamento...**
-<br>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q0bGJmbWF4OHJpdnpmb3B6Y2J4Zmx4bHB4a3I0a2J4Y2J4Zmx4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hL9q5k9DK9l0wzYmWg/giphy.gif" width="200px">
 
 ---
 
 #### ⚡ Fun Facts
 
-* 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS).
-* 🐧 Usuário de Linux (CachyOS) focado em customização e produtividade.
-* 🎮 Gamer "low-spec" expert em otimização (extraindo o máximo da RX 580).
-* 🧠 **Filosofia:** Ação massiva > Teoria excessiva.
-
+* Lendo Berserk
+  <br>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDduNG5wM21mZGZvdTBsaXlzN2hoNzg5MHZ2MHB3ZmJ0dGoyZ2RmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVrFKZF3s61W/giphy.gif" width="100px">
+  
 ---
 
 [LinkedIn](https://www.linkedin.com/in/brunodatadev/)
